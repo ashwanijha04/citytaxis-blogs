@@ -1,20 +1,21 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Explore Indore with Comfort"
+subtitle: "Your trusted partner for cab services in Indore"
+image: /img/indore-cabs-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: "Why Choose Indore Cabs?"
+  text: "At Indore Cabs, we prioritize comfort, safety, and affordability. Our fleet of well-maintained vehicles and experienced drivers ensure a smooth and enjoyable ride for every passenger."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  heading: "Our Blog"
+  text: "Stay updated with the latest travel tips, destination highlights, and insider information about Indore. Whether you're a local or a visitor, our blog is here to guide you through the best experiences this vibrant city has to offer."
+blogs:
+  - image: /img/indore-city.jpg
+    text: "Discover the hidden gems of Indore – from historic sites to culinary delights. Our blog covers the best places to visit and how to get there with ease."
+  - image: /img/indore-nightlife.jpg
+    text: "Experience the vibrant nightlife of Indore with our top picks for late-night adventures. Learn about the best spots for dining, entertainment, and more."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: "Our Commitment"
+  text: "Indore Cabs is committed to providing reliable and affordable transportation services while ensuring the safety and satisfaction of our customers. We believe in building lasting relationships with our clients through transparency and excellent service."
+  image: /img/indore-cabs-values.jpg
 ---
 
